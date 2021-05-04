@@ -7,4 +7,10 @@ Practice dataset for code practice on completely unbiased attributes.
 
 Current status:
 - EDA / feature encoding
-- 
+
+
+Project goals:
+- Experiment with DT / RF
+- XGBoost / LightGBM
+
+
